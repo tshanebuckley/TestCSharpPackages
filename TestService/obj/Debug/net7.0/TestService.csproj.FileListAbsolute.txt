@@ -58,3 +58,14 @@ C:\Users\tshan\Desktop\git_repos\TestService\TestService\obj\Debug\net7.0\refint
 C:\Users\tshan\Desktop\git_repos\TestService\TestService\obj\Debug\net7.0\TestService.pdb
 C:\Users\tshan\Desktop\git_repos\TestService\TestService\obj\Debug\net7.0\TestService.genruntimeconfig.cache
 C:\Users\tshan\Desktop\git_repos\TestService\TestService\obj\Debug\net7.0\ref\TestService.dll
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\libman.json
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\Components.staticwebassets.runtime.json
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\TestService.staticwebassets.runtime.json
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\Components.dll
+C:\Users\tshan\Desktop\git_repos\TestService\TestService\bin\Debug\net7.0\Components.pdb

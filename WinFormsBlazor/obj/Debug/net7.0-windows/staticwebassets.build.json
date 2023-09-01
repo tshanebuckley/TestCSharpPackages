@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "Hash": "Y4eRukt8bQkkbFdcqc38O9+l7aIXyR7wvnZMdQoMCiE=",
+  "Source": "WinFormsBlazor",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\Components\\Components.csproj",
+      "Version": 2,
+      "Source": "Components",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Components\\wwwroot",
+      "Source": "Components",
+      "ContentRoot": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\Components\\wwwroot\\",
+      "BasePath": "_content/Components",
+      "Pattern": "**"
+    },
+    {
+      "Name": "WinFormsBlazor\\wwwroot",
+      "Source": "WinFormsBlazor",
+      "ContentRoot": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\WinFormsBlazor\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\Components\\wwwroot\\background.png",
+      "SourceId": "Components",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\Components\\wwwroot\\",
+      "BasePath": "_content/Components",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\Components\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "Components",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\Components\\wwwroot\\",
+      "BasePath": "_content/Components",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    },
+    {
+      "Identity": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\WinFormsBlazor\\wwwroot\\css\\app.css",
+      "SourceId": "WinFormsBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\WinFormsBlazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\WinFormsBlazor\\wwwroot\\index.html",
+      "SourceId": "WinFormsBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tshan\\Desktop\\git_repos\\TestService\\WinFormsBlazor\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
