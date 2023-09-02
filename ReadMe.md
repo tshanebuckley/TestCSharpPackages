@@ -9,3 +9,5 @@ Blazor RenderTree (dom updating): https://www.youtube.com/watch?v=f3W7hg2G-NM
 Blazor Winforms: https://learn.microsoft.com/en-us/aspnet/core/blazor/hybrid/tutorials/windows-forms?view=aspnetcore-7.0
 
 Entity Framework: https://www.youtube.com/watch?v=DBI59f56L5I
+
+EF Postgres Json: https://www.npgsql.org/efcore/mapping/json.html?tabs=data-annotations%2Cpoco
