@@ -17,3 +17,5 @@ Blazor TabControl: https://www.youtube.com/watch?v=g5y2TO2KGu8
 Data-binding (Blazor University): https://blazor-university.com/components/two-way-binding/
 
 Data-binding updates: https://www.youtube.com/watch?v=i04LddWyYMU
+
+Blazor DataGrid: https://www.youtube.com/watch?v=ryA2r1m5f8M
