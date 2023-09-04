@@ -11,3 +11,5 @@ Blazor Winforms: https://learn.microsoft.com/en-us/aspnet/core/blazor/hybrid/tut
 Entity Framework: https://www.youtube.com/watch?v=DBI59f56L5I
 
 EF Postgres Json: https://www.npgsql.org/efcore/mapping/json.html?tabs=data-annotations%2Cpoco
+
+Blazor TabControl: https://www.youtube.com/watch?v=g5y2TO2KGu8
