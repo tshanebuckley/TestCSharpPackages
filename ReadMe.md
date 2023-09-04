@@ -19,3 +19,7 @@ Data-binding (Blazor University): https://blazor-university.com/components/two-w
 Data-binding updates: https://www.youtube.com/watch?v=i04LddWyYMU
 
 Blazor DataGrid: https://www.youtube.com/watch?v=ryA2r1m5f8M
+
+Blazor DatePicker: https://www.pragimtech.com/blog/blazor/blazor-datepicker/
+
+Blazor TreeView: https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/creating-a-generic-tree-view-blazor-component/ba-p/3640237
