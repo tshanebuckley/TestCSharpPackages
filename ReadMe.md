@@ -25,3 +25,5 @@ Blazor DatePicker: https://www.pragimtech.com/blog/blazor/blazor-datepicker/
 Blazor TreeView: https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/creating-a-generic-tree-view-blazor-component/ba-p/3640237
 
 Signals (a js example): https://www.youtube.com/watch?v=bUy4xiJ05KY
+
+Blazor Component Communication: https://www.youtube.com/watch?v=Thwozpi0V58
