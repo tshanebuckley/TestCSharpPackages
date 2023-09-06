@@ -1,0 +1,9 @@
+﻿<button type="button" @onclick=Click>@Num</button>
+@code {
+    [Parameter]
+    public int Num { get; set; }
+    [Parameter]
+    public EventCallback<int> OnClick { get; set; }
+    async Task Click()
+        => await OnClick.InvokeAsync(Num);
+}

@@ -28,6 +28,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = RGVjb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/tshan/Desktop/git_repos/TestService/Components/JsonBasedComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = SnNvbkJhc2VkQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tshan/Desktop/git_repos/TestService/Components/NumButton.razor]
+build_metadata.AdditionalFiles.TargetPath = TnVtQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tshan/Desktop/git_repos/TestService/Components/Slot.razor]
+build_metadata.AdditionalFiles.TargetPath = U2xvdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/tshan/Desktop/git_repos/TestService/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

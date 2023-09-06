@@ -1,0 +1,28 @@
+﻿@using System.Text.Json;
+@inject IJSRuntime JsRuntime
+
+<DynamicComponent Type=Comp.ComponentType
+                  Parameters=Comp.Parameters />
+
+@code {
+    ComponentDescription Comp;
+    protected override void OnInitialized()
+    {
+        Comp = JsonSerializer.Deserialize<ComponentDto>(@"
+            {
+                ""TypeName"":
+                     ""Components.NumButton"",
+                ""Parameters"": {
+                    ""Num"": {
+                        ""TypeName"": ""System.Int32"",
+                        ""Value"": 10
+                    }
+                }
+            }")
+        .ToComponent();
+        Comp.Parameters.Add("OnClick",
+            EventCallback.Factory.Create<int>(this, Click));
+    }
+    async Task Click(int count)
+        => await JsRuntime.InvokeVoidAsync("alert", count);
+}

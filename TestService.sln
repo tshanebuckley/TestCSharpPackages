@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsBlazor", "WinFormsB
 		{4A25E878-3F8D-4A0C-8B95-7D626C8F5EB7} = {4A25E878-3F8D-4A0C-8B95-7D626C8F5EB7}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Components", "Components\Components.csproj", "{4A25E878-3F8D-4A0C-8B95-7D626C8F5EB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Components", "Components\Components.csproj", "{4A25E878-3F8D-4A0C-8B95-7D626C8F5EB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
