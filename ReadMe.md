@@ -27,3 +27,5 @@ Blazor TreeView: https://techcommunity.microsoft.com/t5/healthcare-and-life-scie
 Signals (a js example): https://www.youtube.com/watch?v=bUy4xiJ05KY
 
 Blazor Component Communication: https://www.youtube.com/watch?v=Thwozpi0V58
+
+Json-backed Dynamic Component: https://medium.com/codex/blazor-webassembly-dynamic-creation-of-components-based-on-json-configuration-d1df664e5e19
