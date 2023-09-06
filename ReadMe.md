@@ -29,3 +29,7 @@ Signals (a js example): https://www.youtube.com/watch?v=bUy4xiJ05KY
 Blazor Component Communication: https://www.youtube.com/watch?v=Thwozpi0V58
 
 Json-backed Dynamic Component: https://medium.com/codex/blazor-webassembly-dynamic-creation-of-components-based-on-json-configuration-d1df664e5e19
+
+
+
+Idea for dynamically loading nested components: have our interface live where "ComponentDescription" lives in the example json-loaded component and add a slotting mechanism like svelte and web-components. Will need the load for the first component to load the nested components. How to get the json string to begin with? How to pass the appropriate json down the slots? How will to slots know their relative path? What if there are multiple slots? How to handle data binding? Could make events objects and also load them from json like the OnClick altering event in the example.
