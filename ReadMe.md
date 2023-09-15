@@ -36,6 +36,8 @@ Async events: https://medium.com/@a.lyskawa/the-hitchhiker-guide-to-asynchronous
 
 EAP pattern: https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/event-based-asynchronous-pattern-overview
 
+EAP component example: https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/9hk12d4y(v=vs.100)
+
 TAP: https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap
 
 Idea for dynamically loading nested components: have our interface live where "ComponentDescription" lives in the example json-loaded component and add a slotting mechanism like svelte and web-components. Will need the load for the first component to load the nested components. How to get the json string to begin with? How to pass the appropriate json down the slots? How will to slots know their relative path? What if there are multiple slots? How to handle data binding? Could make events objects and also load them from json like the OnClick altering event in the example. Maybe load the json through updates to AppState?
